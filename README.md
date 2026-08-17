@@ -37,7 +37,7 @@ curl -L https://raw.githubusercontent.com/bqlpfy/flux-panel/refs/heads/main/inst
 
 面板端(开发版)：
 ```bash
-curl -L https://raw.githubusercontent.com/bqlpfy/flux-panel/refs/heads/beta/panel_install.sh -o panel_install.sh && chmod +x panel_install.sh && ./panel_install.sh
+curl -L https://raw.githubusercontent.com/xwyrz/flux-panel/refs/heads/main/panel_install.sh -o panel_install.sh && chmod +x panel_install.sh && ./panel_install.sh
 ```
 节点端(开发版)：
 ```bash
